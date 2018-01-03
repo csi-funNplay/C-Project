@@ -1,3 +1,3 @@
 1. PhoneBook : Linked List init phoneBook
-2. PhoneBook_DL : Double Linked List À¸·Î °³·®, Ã¹³ëµå ¹× ¸¶Áö¸· ³ëµå Ãß°¡ »èÁ¦½Ã ¿À·ù ¼öÁ¤Ãß°¡
-3. PhoneBook_Tree : Tree ÇüÅÂ·Î º¯°æ¡
+2. PhoneBook_DL : Double Linked List ìœ¼ë¡œ ê°œëŸ‰, ì²«ë…¸ë“œ ë° ë§ˆì§€ë§‰ ë…¸ë“œ ì¶”ê°€ ì‚­ì œì‹œ ì˜¤ë¥˜ ìˆ˜ì •ì¶”ê°€
+3. PhoneBook_Tree : Tree í˜•íƒœë¡œ ë³€ê²½
